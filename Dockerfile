@@ -1,4 +1,4 @@
-FROM buildpack-deps:focal-scm@sha256:46270b0296605d98be5c50a829568e78986981fb100e265a03bfca04bc32b02f AS base
+FROM buildpack-deps:focal-scm@sha256:53646a4c4c8934a83478f724e585b88b78fbe27137d634c9bcb2c3d031ef4010 AS base
 LABEL maintainer "https://github.com/weiji14"
 ENV LANG C.UTF-8
 ENV LC_ALL C.UTF-8
